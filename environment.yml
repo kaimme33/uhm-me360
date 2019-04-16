@@ -14,3 +14,5 @@ dependencies:
   - bokeh
   - dask
   - tensorflow
+  - astropy
+  - plotly
