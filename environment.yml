@@ -15,4 +15,6 @@ dependencies:
   - dask
   - tensorflow
   - astropy
+  - poliastro
+  - astroquery
   - plotly
